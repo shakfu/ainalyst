@@ -18,6 +18,6 @@ message = client.messages.create(
             "content": "Hello, Claude. When is dark matter?",
         }
     ],
-    model="claude-3-5-haiku-latest",
+    model="claude-haiku-4-5-20251001",
 )
 print(message.content)
