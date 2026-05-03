@@ -22,6 +22,7 @@ dependencies = [
     "onnxscript>=0.4.0",
     "openai>=1.107.1",
     "openai-agents>=0.0.17",
+    "openrouter>=0.9.1",
     "python-dotenv>=1.1.0",
     "skl2onnx>=1.19.1",
     "torch>=2.7.0",
